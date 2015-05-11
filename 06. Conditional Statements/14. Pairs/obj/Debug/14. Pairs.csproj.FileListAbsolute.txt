@@ -1,9 +1,0 @@
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\14. Pairs\bin\Debug\_14.Pairs.exe.config
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\14. Pairs\bin\Debug\_14.Pairs.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\14. Pairs\bin\Debug\_14.Pairs.pdb
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\14. Pairs\obj\Debug\_14.Pairs.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\14. Pairs\obj\Debug\_14.Pairs.pdb
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\14. Pairs\obj\Debug\14. Pairs.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\14. Pairs\bin\Debug\_14.Pairs.exe.config
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\14. Pairs\obj\Debug\_14.Pairs.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\14. Pairs\obj\Debug\_14.Pairs.pdb

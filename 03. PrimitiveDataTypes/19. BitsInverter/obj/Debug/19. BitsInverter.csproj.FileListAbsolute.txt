@@ -1,1 +1,0 @@
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\19. BitsInverter\bin\Debug\_19.BitsInverter.exe.config

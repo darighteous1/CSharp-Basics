@@ -1,5 +1,0 @@
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\03. PrintNumbers\bin\Debug\_03.PrintNumbers.exe.config
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\03. PrintNumbers\bin\Debug\_03.PrintNumbers.exe
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\03. PrintNumbers\bin\Debug\_03.PrintNumbers.pdb
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\03. PrintNumbers\obj\Debug\_03.PrintNumbers.exe
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\03. PrintNumbers\obj\Debug\_03.PrintNumbers.pdb

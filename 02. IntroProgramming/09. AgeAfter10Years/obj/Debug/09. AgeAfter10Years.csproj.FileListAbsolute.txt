@@ -1,6 +1,0 @@
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\09. AgeAfter10Years\bin\Debug\_09.AgeAfter10Years.exe.config
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\09. AgeAfter10Years\bin\Debug\_09.AgeAfter10Years.exe
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\09. AgeAfter10Years\bin\Debug\_09.AgeAfter10Years.pdb
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\09. AgeAfter10Years\obj\Debug\_09.AgeAfter10Years.exe
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\09. AgeAfter10Years\obj\Debug\_09.AgeAfter10Years.pdb
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\09. AgeAfter10Years\obj\Debug\09. AgeAfter10Years.csprojResolveAssemblyReference.cache

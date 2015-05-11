@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\12. RandomizedNumbers\bin\Debug\_12.RandomizedNumbers.exe.config
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\12. RandomizedNumbers\bin\Debug\_12.RandomizedNumbers.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\12. RandomizedNumbers\bin\Debug\_12.RandomizedNumbers.pdb
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\12. RandomizedNumbers\obj\Debug\12. RandomizedNumbers.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\12. RandomizedNumbers\obj\Debug\_12.RandomizedNumbers.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\12. RandomizedNumbers\obj\Debug\_12.RandomizedNumbers.pdb

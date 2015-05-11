@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\15. MagicStrings\bin\Debug\_15.MagicStrings.exe.config
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\15. MagicStrings\bin\Debug\_15.MagicStrings.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\15. MagicStrings\bin\Debug\_15.MagicStrings.pdb
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\15. MagicStrings\obj\Debug\15. MagicStrings.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\15. MagicStrings\obj\Debug\_15.MagicStrings.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\15. MagicStrings\obj\Debug\_15.MagicStrings.pdb

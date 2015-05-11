@@ -1,5 +1,0 @@
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\09. PointInCircleOutsideRectangle\bin\Debug\_09.PointInCircleOutsideRectangle.exe.config
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\09. PointInCircleOutsideRectangle\bin\Debug\_09.PointInCircleOutsideRectangle.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\09. PointInCircleOutsideRectangle\bin\Debug\_09.PointInCircleOutsideRectangle.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\09. PointInCircleOutsideRectangle\obj\Debug\_09.PointInCircleOutsideRectangle.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\09. PointInCircleOutsideRectangle\obj\Debug\_09.PointInCircleOutsideRectangle.pdb

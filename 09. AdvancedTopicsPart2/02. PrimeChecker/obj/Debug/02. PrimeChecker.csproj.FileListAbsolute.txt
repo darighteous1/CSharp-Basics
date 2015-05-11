@@ -1,5 +1,0 @@
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\02. PrimeChecker\bin\Debug\_02.PrimeChecker.exe.config
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\02. PrimeChecker\bin\Debug\_02.PrimeChecker.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\02. PrimeChecker\bin\Debug\_02.PrimeChecker.pdb
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\02. PrimeChecker\obj\Debug\_02.PrimeChecker.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\02. PrimeChecker\obj\Debug\_02.PrimeChecker.pdb

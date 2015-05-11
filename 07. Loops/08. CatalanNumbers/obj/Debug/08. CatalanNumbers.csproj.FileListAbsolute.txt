@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe.config
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\08. CatalanNumbers\obj\Debug\08. CatalanNumbers.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.pdb
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.pdb

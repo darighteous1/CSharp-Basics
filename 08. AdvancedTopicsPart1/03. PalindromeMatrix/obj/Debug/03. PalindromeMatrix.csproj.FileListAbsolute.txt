@@ -1,5 +1,0 @@
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\03. PalindromeMatrix\bin\Debug\_03.PalindromeMatrix.exe.config
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\03. PalindromeMatrix\bin\Debug\_03.PalindromeMatrix.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\03. PalindromeMatrix\bin\Debug\_03.PalindromeMatrix.pdb
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\03. PalindromeMatrix\obj\Debug\_03.PalindromeMatrix.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\03. PalindromeMatrix\obj\Debug\_03.PalindromeMatrix.pdb

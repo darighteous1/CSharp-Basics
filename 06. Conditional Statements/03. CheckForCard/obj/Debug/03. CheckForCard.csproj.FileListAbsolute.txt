@@ -1,5 +1,0 @@
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\03. CheckForCard\bin\Debug\_03.CheckForCard.exe.config
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\03. CheckForCard\bin\Debug\_03.CheckForCard.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\03. CheckForCard\bin\Debug\_03.CheckForCard.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\03. CheckForCard\obj\Debug\_03.CheckForCard.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\03. CheckForCard\obj\Debug\_03.CheckForCard.pdb

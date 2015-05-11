@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\20. BitsUp\bin\Debug\_20.BitsUp.exe.config
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\20. BitsUp\obj\Debug\20. BitsUp.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\20. BitsUp\bin\Debug\_20.BitsUp.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\20. BitsUp\bin\Debug\_20.BitsUp.pdb
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\20. BitsUp\obj\Debug\_20.BitsUp.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\20. BitsUp\obj\Debug\_20.BitsUp.pdb

@@ -1,5 +1,0 @@
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\21. BitsSifting\bin\Debug\_21.BitsSifting.exe.config
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\21. BitsSifting\bin\Debug\_21.BitsSifting.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\21. BitsSifting\bin\Debug\_21.BitsSifting.pdb
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\21. BitsSifting\obj\Debug\_21.BitsSifting.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\21. BitsSifting\obj\Debug\_21.BitsSifting.pdb

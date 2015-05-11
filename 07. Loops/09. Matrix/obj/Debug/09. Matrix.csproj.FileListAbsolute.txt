@@ -1,5 +1,0 @@
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\09. Matrix\bin\Debug\_09.Matrix.exe.config
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\09. Matrix\bin\Debug\_09.Matrix.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\09. Matrix\bin\Debug\_09.Matrix.pdb
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\09. Matrix\obj\Debug\_09.Matrix.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\09. Matrix\obj\Debug\_09.Matrix.pdb

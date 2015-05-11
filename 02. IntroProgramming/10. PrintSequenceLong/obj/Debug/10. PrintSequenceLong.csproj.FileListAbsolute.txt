@@ -1,6 +1,0 @@
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\10. PrintSequenceLong\bin\Debug\_10.PrintSequenceLong.exe.config
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\10. PrintSequenceLong\bin\Debug\_10.PrintSequenceLong.exe
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\10. PrintSequenceLong\bin\Debug\_10.PrintSequenceLong.pdb
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\10. PrintSequenceLong\obj\Debug\10. PrintSequenceLong.csprojResolveAssemblyReference.cache
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\10. PrintSequenceLong\obj\Debug\_10.PrintSequenceLong.exe
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\10. PrintSequenceLong\obj\Debug\_10.PrintSequenceLong.pdb

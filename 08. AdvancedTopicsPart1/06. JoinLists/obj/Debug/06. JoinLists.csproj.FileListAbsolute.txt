@@ -1,9 +1,0 @@
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\06. JoinLists\bin\Debug\_06.JoinLists.exe.config
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\06. JoinLists\bin\Debug\_06.JoinLists.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\06. JoinLists\bin\Debug\_06.JoinLists.pdb
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\06. JoinLists\obj\Debug\_06.JoinLists.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\06. JoinLists\obj\Debug\_06.JoinLists.pdb
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\06. JoinLists\obj\Debug\06. JoinLists.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\08. AdvancedTopicsPart1\06. JoinLists\bin\Debug\_06.JoinLists.exe.config
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\08. AdvancedTopicsPart1\06. JoinLists\obj\Debug\_06.JoinLists.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\08. AdvancedTopicsPart1\06. JoinLists\obj\Debug\_06.JoinLists.pdb

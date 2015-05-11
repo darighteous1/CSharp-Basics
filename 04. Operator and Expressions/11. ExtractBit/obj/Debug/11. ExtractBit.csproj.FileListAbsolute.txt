@@ -1,9 +1,0 @@
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\11. ExtractBit\bin\Debug\_11.ExtractBit.exe.config
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\11. ExtractBit\bin\Debug\_11.ExtractBit.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\11. ExtractBit\bin\Debug\_11.ExtractBit.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\11. ExtractBit\obj\Debug\11. ExtractBit.csprojResolveAssemblyReference.cache
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\11. ExtractBit\obj\Debug\_11.ExtractBit.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\11. ExtractBit\obj\Debug\_11.ExtractBit.pdb
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\11. ExtractBit\bin\Debug\_11.ExtractBit.exe.config
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\11. ExtractBit\obj\Debug\_11.ExtractBit.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\11. ExtractBit\obj\Debug\_11.ExtractBit.pdb

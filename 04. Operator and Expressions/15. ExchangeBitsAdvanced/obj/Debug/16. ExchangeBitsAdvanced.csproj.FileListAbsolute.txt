@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\15. ExchangeBitsAdvanced\bin\Debug\_15.ExchangeBitsAdvanced.exe.config
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\15. ExchangeBitsAdvanced\bin\Debug\_15.ExchangeBitsAdvanced.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\15. ExchangeBitsAdvanced\bin\Debug\_15.ExchangeBitsAdvanced.pdb
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\15. ExchangeBitsAdvanced\obj\Debug\16. ExchangeBitsAdvanced.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\15. ExchangeBitsAdvanced\obj\Debug\_15.ExchangeBitsAdvanced.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\15. ExchangeBitsAdvanced\obj\Debug\_15.ExchangeBitsAdvanced.pdb

@@ -1,4 +1,0 @@
-C# is a modern, object oriented, high-level programming language.
-.NET Framework is a software framework. It includes a large class library known as Framework Class Library (FCL) across several programming languages. Programs written for .NET Framework execute in a software environment (as contrasted to hardware environment), known as Common Language Runtime (CLR). FCL and CLR together constitute .NET Framework.
-We use .NET framework to write, compile and execute c# programs.
-

@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\06. DivideFactorials\bin\Debug\_06.DivideFactorials.exe.config
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\06. DivideFactorials\bin\Debug\_06.DivideFactorials.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\06. DivideFactorials\bin\Debug\_06.DivideFactorials.pdb
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\06. DivideFactorials\obj\Debug\06. DivideFactorials.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\06. DivideFactorials\obj\Debug\_06.DivideFactorials.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\06. DivideFactorials\obj\Debug\_06.DivideFactorials.pdb

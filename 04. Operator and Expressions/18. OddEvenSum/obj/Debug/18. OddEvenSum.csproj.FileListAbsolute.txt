@@ -1,5 +1,0 @@
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\18. OddEvenSum\bin\Debug\_18.OddEvenSum.exe.config
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\18. OddEvenSum\bin\Debug\_18.OddEvenSum.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\18. OddEvenSum\bin\Debug\_18.OddEvenSum.pdb
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\18. OddEvenSum\obj\Debug\_18.OddEvenSum.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\18. OddEvenSum\obj\Debug\_18.OddEvenSum.pdb

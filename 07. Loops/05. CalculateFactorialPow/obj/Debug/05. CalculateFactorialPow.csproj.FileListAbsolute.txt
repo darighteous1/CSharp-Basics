@@ -1,6 +1,0 @@
-c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\05. CalculateFactorialPow\bin\Debug\_05.CalculateFactorialPow.exe.config
-c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\05. CalculateFactorialPow\bin\Debug\_05.CalculateFactorialPow.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\05. CalculateFactorialPow\bin\Debug\_05.CalculateFactorialPow.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\05. CalculateFactorialPow\obj\Debug\05. CalculateFactorialPow.csprojResolveAssemblyReference.cache
-c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\05. CalculateFactorialPow\obj\Debug\_05.CalculateFactorialPow.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\05. CalculateFactorialPow\obj\Debug\_05.CalculateFactorialPow.pdb

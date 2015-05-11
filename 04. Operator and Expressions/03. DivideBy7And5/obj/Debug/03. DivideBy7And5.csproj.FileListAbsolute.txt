@@ -1,8 +1,0 @@
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.exe.config
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\03. DivideBy7And5\obj\Debug\_03.DivideBy7And5.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\03. DivideBy7And5\obj\Debug\_03.DivideBy7And5.pdb
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.exe.config
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\03. DivideBy7And5\obj\Debug\_03.DivideBy7And5.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\03. DivideBy7And5\obj\Debug\_03.DivideBy7And5.pdb

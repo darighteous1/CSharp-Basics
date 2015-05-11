@@ -1,6 +1,0 @@
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\05. BiggestOfThree\bin\Debug\_05.BiggestOfThree.exe.config
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\05. BiggestOfThree\bin\Debug\_05.BiggestOfThree.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\05. BiggestOfThree\bin\Debug\_05.BiggestOfThree.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\05. BiggestOfThree\obj\Debug\_05.BiggestOfThree.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\05. BiggestOfThree\obj\Debug\_05.BiggestOfThree.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\05. BiggestOfThree\obj\Debug\05. BiggestOfThree.csprojResolveAssemblyReference.cache

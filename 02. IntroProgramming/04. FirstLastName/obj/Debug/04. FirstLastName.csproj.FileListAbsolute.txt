@@ -1,6 +1,0 @@
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\04. FirstLastName\bin\Debug\_04.FirstLastName.exe.config
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\04. FirstLastName\bin\Debug\_04.FirstLastName.exe
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\04. FirstLastName\bin\Debug\_04.FirstLastName.pdb
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\04. FirstLastName\obj\Debug\04. FirstLastName.csprojResolveAssemblyReference.cache
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\04. FirstLastName\obj\Debug\_04.FirstLastName.exe
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\04. FirstLastName\obj\Debug\_04.FirstLastName.pdb

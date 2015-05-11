@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.exe.config
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\03. PrimesInGivenRange\obj\Debug\03. PrimesInGivenRange.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.pdb
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\03. PrimesInGivenRange\obj\Debug\_03.PrimesInGivenRange.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\03. PrimesInGivenRange\obj\Debug\_03.PrimesInGivenRange.pdb

@@ -1,5 +1,0 @@
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\10. IntDoubleString\bin\Debug\_10.IntDoubleString.exe.config
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\10. IntDoubleString\bin\Debug\_10.IntDoubleString.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\10. IntDoubleString\bin\Debug\_10.IntDoubleString.pdb
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\10. IntDoubleString\obj\Debug\_10.IntDoubleString.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\10. IntDoubleString\obj\Debug\_10.IntDoubleString.pdb

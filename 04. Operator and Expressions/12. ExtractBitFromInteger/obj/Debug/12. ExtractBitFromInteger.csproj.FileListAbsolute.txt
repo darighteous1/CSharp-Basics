@@ -1,8 +1,0 @@
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe.config
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.pdb
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe.config
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.pdb

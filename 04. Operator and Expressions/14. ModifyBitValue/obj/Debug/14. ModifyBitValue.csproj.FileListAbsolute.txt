@@ -1,9 +1,0 @@
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\14. ModifyBitValue\bin\Debug\_14.ModifyBitValue.exe.config
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\14. ModifyBitValue\bin\Debug\_14.ModifyBitValue.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\14. ModifyBitValue\bin\Debug\_14.ModifyBitValue.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\14. ModifyBitValue\obj\Debug\_14.ModifyBitValue.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\14. ModifyBitValue\obj\Debug\_14.ModifyBitValue.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\14. ModifyBitValue\obj\Debug\14. ModifyBitValue.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\14. ModifyBitValue\bin\Debug\_14.ModifyBitValue.exe.config
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\14. ModifyBitValue\obj\Debug\_14.ModifyBitValue.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\14. ModifyBitValue\obj\Debug\_14.ModifyBitValue.pdb

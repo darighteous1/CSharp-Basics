@@ -1,8 +1,0 @@
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe.config
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.pdb
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe.config
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.pdb

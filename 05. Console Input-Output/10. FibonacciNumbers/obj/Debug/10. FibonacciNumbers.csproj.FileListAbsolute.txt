@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.exe.config
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.pdb
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\10. FibonacciNumbers\obj\Debug\10. FibonacciNumbers.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\10. FibonacciNumbers\obj\Debug\_10.FibonacciNumbers.exe
-C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\10. FibonacciNumbers\obj\Debug\_10.FibonacciNumbers.pdb

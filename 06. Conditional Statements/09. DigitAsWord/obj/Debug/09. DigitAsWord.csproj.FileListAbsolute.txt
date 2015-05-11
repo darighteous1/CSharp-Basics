@@ -1,5 +1,0 @@
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\09. DigitAsWord\bin\Debug\_09.DigitAsWord.exe.config
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\09. DigitAsWord\bin\Debug\_09.DigitAsWord.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\09. DigitAsWord\bin\Debug\_09.DigitAsWord.pdb
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\09. DigitAsWord\obj\Debug\_09.DigitAsWord.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\09. DigitAsWord\obj\Debug\_09.DigitAsWord.pdb

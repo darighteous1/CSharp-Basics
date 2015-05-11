@@ -1,5 +1,0 @@
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\02. BonusScore\bin\Debug\_02.BonusScore.exe.config
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\02. BonusScore\bin\Debug\_02.BonusScore.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\02. BonusScore\bin\Debug\_02.BonusScore.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\02. BonusScore\obj\Debug\_02.BonusScore.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\02. BonusScore\obj\Debug\_02.BonusScore.pdb

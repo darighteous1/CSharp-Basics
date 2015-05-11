@@ -1,6 +1,0 @@
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\05. Sqrt\bin\Debug\_05.Sqrt.exe.config
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\05. Sqrt\bin\Debug\_05.Sqrt.exe
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\05. Sqrt\bin\Debug\_05.Sqrt.pdb
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\05. Sqrt\obj\Debug\_05.Sqrt.exe
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\05. Sqrt\obj\Debug\_05.Sqrt.pdb
-C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\05. Sqrt\obj\Debug\05. Sqrt.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\13. SubsetSum\bin\Debug\_13.SubsetSum.exe.config
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\13. SubsetSum\bin\Debug\_13.SubsetSum.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\13. SubsetSum\bin\Debug\_13.SubsetSum.pdb
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\13. SubsetSum\obj\Debug\12. ZeroSubset - unsolved.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\13. SubsetSum\obj\Debug\_13.SubsetSum.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\13. SubsetSum\obj\Debug\_13.SubsetSum.pdb

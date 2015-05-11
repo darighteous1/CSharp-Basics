@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\12. NumberAsWords\bin\Debug\_12.NumberAsWords.exe.config
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\12. NumberAsWords\bin\Debug\_12.NumberAsWords.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\12. NumberAsWords\bin\Debug\_12.NumberAsWords.pdb
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\12. NumberAsWords\obj\Debug\12. NumberAsWords.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\12. NumberAsWords\obj\Debug\_12.NumberAsWords.exe
-C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\12. NumberAsWords\obj\Debug\_12.NumberAsWords.pdb

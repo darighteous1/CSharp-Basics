@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\08. CountNames\bin\Debug\_08.CountNames.exe.config
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\08. CountNames\bin\Debug\_08.CountNames.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\08. CountNames\bin\Debug\_08.CountNames.pdb
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\08. CountNames\obj\Debug\_08.CountNames.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\08. CountNames\obj\Debug\_08.CountNames.pdb
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\08. CountNames\obj\Debug\08. CountNames.csprojResolveAssemblyReference.cache

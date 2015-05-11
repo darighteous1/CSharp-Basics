@@ -1,6 +1,0 @@
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe.config
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.pdb
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\04. MultiplicationSign\obj\Debug\04. MultiplicationSign.csprojResolveAssemblyReference.cache
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.exe
-c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.pdb
