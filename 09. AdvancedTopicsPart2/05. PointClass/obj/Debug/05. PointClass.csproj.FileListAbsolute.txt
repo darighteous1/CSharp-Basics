@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\05. PointClass\bin\Debug\_05.PointClass.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\05. PointClass\bin\Debug\_05.PointClass.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\05. PointClass\bin\Debug\_05.PointClass.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\05. PointClass\obj\Debug\_05.PointClass.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\05. PointClass\obj\Debug\_05.PointClass.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\05. PointClass\obj\Debug\05. PointClass.csprojResolveAssemblyReference.cache

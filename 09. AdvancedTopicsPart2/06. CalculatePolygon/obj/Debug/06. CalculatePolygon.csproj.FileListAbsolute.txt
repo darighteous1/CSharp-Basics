@@ -1,0 +1,9 @@
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\06. CalculatePolygon\bin\Debug\_06.CalculatePolygon.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\06. CalculatePolygon\obj\Debug\06. CalculatePolygon.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\06. CalculatePolygon\bin\Debug\_06.CalculatePolygon.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\06. CalculatePolygon\bin\Debug\_06.CalculatePolygon.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\06. CalculatePolygon\obj\Debug\_06.CalculatePolygon.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\09. AdvancedTopicsPart2\06. CalculatePolygon\obj\Debug\_06.CalculatePolygon.pdb
+C:\Users\darighteous1\Desktop\Programming\SoftUni\0. Programming Basics\!Homeworks\09. AdvancedTopicsPart2\06. CalculatePolygon\bin\Debug\_06.CalculatePolygon.exe.config
+C:\Users\darighteous1\Desktop\Programming\SoftUni\0. Programming Basics\!Homeworks\09. AdvancedTopicsPart2\06. CalculatePolygon\obj\Debug\_06.CalculatePolygon.exe
+C:\Users\darighteous1\Desktop\Programming\SoftUni\0. Programming Basics\!Homeworks\09. AdvancedTopicsPart2\06. CalculatePolygon\obj\Debug\_06.CalculatePolygon.pdb

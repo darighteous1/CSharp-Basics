@@ -1,0 +1,5 @@
+c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\02. NotDivisibleBy3And7\bin\Debug\_02.NotDivisibleBy3And7.exe.config
+c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\02. NotDivisibleBy3And7\bin\Debug\_02.NotDivisibleBy3And7.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\02. NotDivisibleBy3And7\bin\Debug\_02.NotDivisibleBy3And7.pdb
+c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\02. NotDivisibleBy3And7\obj\Debug\_02.NotDivisibleBy3And7.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\02. NotDivisibleBy3And7\obj\Debug\_02.NotDivisibleBy3And7.pdb

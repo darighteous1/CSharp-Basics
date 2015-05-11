@@ -1,0 +1,9 @@
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\02. CompanyInfo\bin\Debug\_02.CompanyInfo.exe.config
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\02. CompanyInfo\bin\Debug\_02.CompanyInfo.exe
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\02. CompanyInfo\bin\Debug\_02.CompanyInfo.pdb
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\02. CompanyInfo\obj\Debug\02. CompanyInfo.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\02. CompanyInfo\obj\Debug\_02.CompanyInfo.exe
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\02. CompanyInfo\obj\Debug\_02.CompanyInfo.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\02. CompanyInfo\bin\Debug\_02.CompanyInfo.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\02. CompanyInfo\obj\Debug\_02.CompanyInfo.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\02. CompanyInfo\obj\Debug\_02.CompanyInfo.pdb

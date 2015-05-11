@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\15. NewHouse\bin\Debug\_15.NewHouse.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\15. NewHouse\bin\Debug\_15.NewHouse.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\15. NewHouse\bin\Debug\_15.NewHouse.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\15. NewHouse\obj\Debug\15. NewHouse.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\15. NewHouse\obj\Debug\_15.NewHouse.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\15. NewHouse\obj\Debug\_15.NewHouse.pdb

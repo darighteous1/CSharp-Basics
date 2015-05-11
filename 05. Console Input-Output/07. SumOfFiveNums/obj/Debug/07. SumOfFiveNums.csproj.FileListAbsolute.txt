@@ -1,0 +1,11 @@
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\07. SumOfFiveNums\bin\Debug\_07.SumOfFiveNums.exe.config
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\07. SumOfFiveNums\bin\Debug\_07.SumOfFiveNums.exe
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\07. SumOfFiveNums\bin\Debug\_07.SumOfFiveNums.pdb
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\07. SumOfFiveNums\obj\Debug\_07.SumOfFiveNums.exe
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\07. SumOfFiveNums\obj\Debug\_07.SumOfFiveNums.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\07. SumOfFiveNums\bin\Debug\_07.SumOfFiveNums.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\07. SumOfFiveNums\obj\Debug\_07.SumOfFiveNums.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\07. SumOfFiveNums\obj\Debug\_07.SumOfFiveNums.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\07. SumOfFiveNums\bin\Debug\_07.SumOfFiveNums.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\07. SumOfFiveNums\obj\Debug\_07.SumOfFiveNums.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\07. SumOfFiveNums\obj\Debug\_07.SumOfFiveNums.pdb

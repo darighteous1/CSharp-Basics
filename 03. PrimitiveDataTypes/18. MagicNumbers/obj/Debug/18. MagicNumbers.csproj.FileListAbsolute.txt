@@ -1,0 +1,7 @@
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\18. MagicNumbers\bin\Debug\_18.MagicNumbers.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\18. MagicNumbers\bin\Debug\_18.MagicNumbers.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\18. MagicNumbers\obj\Debug\18. MagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\18. MagicNumbers\bin\Debug\_18.MagicNumbers.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\18. MagicNumbers\bin\Debug\_18.MagicNumbers.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\18. MagicNumbers\obj\Debug\_18.MagicNumbers.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\18. MagicNumbers\obj\Debug\_18.MagicNumbers.pdb

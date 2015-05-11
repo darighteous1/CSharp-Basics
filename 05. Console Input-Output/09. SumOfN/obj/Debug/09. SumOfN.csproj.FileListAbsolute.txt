@@ -1,0 +1,5 @@
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\09. SumOfN\bin\Debug\_09.SumOfN.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\09. SumOfN\bin\Debug\_09.SumOfN.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\09. SumOfN\bin\Debug\_09.SumOfN.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\09. SumOfN\obj\Debug\_09.SumOfN.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\09. SumOfN\obj\Debug\_09.SumOfN.pdb

@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\CountBeers(easy)\bin\Debug\CountBeers(easy).exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\CountBeers(easy)\obj\Debug\CountBeers(easy).csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\CountBeers(easy)\bin\Debug\CountBeers(easy).exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\CountBeers(easy)\bin\Debug\CountBeers(easy).pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\CountBeers(easy)\obj\Debug\CountBeers(easy).exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\CountBeers(easy)\obj\Debug\CountBeers(easy).pdb

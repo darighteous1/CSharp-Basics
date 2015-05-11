@@ -1,0 +1,5 @@
+c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\04. DeckOfCards\bin\Debug\_04.DeckOfCards.exe.config
+c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\04. DeckOfCards\bin\Debug\_04.DeckOfCards.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\04. DeckOfCards\bin\Debug\_04.DeckOfCards.pdb
+c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\04. DeckOfCards\obj\Debug\_04.DeckOfCards.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\07. Loops\04. DeckOfCards\obj\Debug\_04.DeckOfCards.pdb

@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\05. CalculateFactorialPow\bin\Debug\_05.CalculateFactorialPow.exe.config
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\05. CalculateFactorialPow\obj\Debug\_05.CalculateFactorialPow.exe
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\05. CalculateFactorialPow\obj\Debug\_05.CalculateFactorialPow.pdb
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\05. CalculateFactorialPow\bin\Debug\_05.CalculateFactorialPow.exe
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\05. CalculateFactorialPow\bin\Debug\_05.CalculateFactorialPow.pdb
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\05. CalculateFactorialPow\obj\Debug\05. CalculateFactorialPow - needs testing.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\06. BiggestOfFive\bin\Debug\_06.BiggestOfFive.exe.config
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\06. BiggestOfFive\bin\Debug\_06.BiggestOfFive.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\06. BiggestOfFive\bin\Debug\_06.BiggestOfFive.pdb
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\06. BiggestOfFive\obj\Debug\_06.BiggestOfFive.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\06. BiggestOfFive\obj\Debug\_06.BiggestOfFive.pdb

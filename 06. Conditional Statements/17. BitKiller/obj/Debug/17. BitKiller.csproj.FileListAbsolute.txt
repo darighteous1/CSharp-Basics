@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\17. BitKiller\bin\Debug\_17.BitKiller.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\17. BitKiller\bin\Debug\_17.BitKiller.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\17. BitKiller\bin\Debug\_17.BitKiller.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\17. BitKiller\obj\Debug\17. BitKiller.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\17. BitKiller\obj\Debug\_17.BitKiller.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\17. BitKiller\obj\Debug\_17.BitKiller.pdb

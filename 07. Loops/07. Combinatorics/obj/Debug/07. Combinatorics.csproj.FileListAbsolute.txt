@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\07. Combinatorics\bin\Debug\_07.Combinatorics.exe.config
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\07. Combinatorics\bin\Debug\_07.Combinatorics.exe
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\07. Combinatorics\bin\Debug\_07.Combinatorics.pdb
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\07. Combinatorics\obj\Debug\07. Combinatorics.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\07. Combinatorics\obj\Debug\_07.Combinatorics.exe
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\07. Combinatorics\obj\Debug\_07.Combinatorics.pdb

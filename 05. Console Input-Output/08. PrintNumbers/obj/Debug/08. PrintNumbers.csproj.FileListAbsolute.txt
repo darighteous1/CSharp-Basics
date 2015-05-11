@@ -1,0 +1,5 @@
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\08. PrintNumbers\bin\Debug\_08.PrintNumbers.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\08. PrintNumbers\bin\Debug\_08.PrintNumbers.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\08. PrintNumbers\bin\Debug\_08.PrintNumbers.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\08. PrintNumbers\obj\Debug\_08.PrintNumbers.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\08. PrintNumbers\obj\Debug\_08.PrintNumbers.pdb

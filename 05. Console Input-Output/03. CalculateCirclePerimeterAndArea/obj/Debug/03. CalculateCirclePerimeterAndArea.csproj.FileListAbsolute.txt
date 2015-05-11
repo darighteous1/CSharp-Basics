@@ -1,0 +1,8 @@
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\03. CalculateCirclePerimeterAndArea\bin\Debug\_03.CalculateCirclePerimeterAndArea.exe.config
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\03. CalculateCirclePerimeterAndArea\bin\Debug\_03.CalculateCirclePerimeterAndArea.exe
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\03. CalculateCirclePerimeterAndArea\bin\Debug\_03.CalculateCirclePerimeterAndArea.pdb
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\03. CalculateCirclePerimeterAndArea\obj\Debug\_03.CalculateCirclePerimeterAndArea.exe
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\03. CalculateCirclePerimeterAndArea\obj\Debug\_03.CalculateCirclePerimeterAndArea.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\03. CalculateCirclePerimeterAndArea\bin\Debug\_03.CalculateCirclePerimeterAndArea.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\03. CalculateCirclePerimeterAndArea\obj\Debug\_03.CalculateCirclePerimeterAndArea.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\03. CalculateCirclePerimeterAndArea\obj\Debug\_03.CalculateCirclePerimeterAndArea.pdb

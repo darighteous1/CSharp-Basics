@@ -1,0 +1,6 @@
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\06. CompareNumbers\bin\Debug\_06.CompareNumbers.exe.config
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\06. CompareNumbers\obj\Debug\_06.CompareNumbers.exe
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\06. CompareNumbers\obj\Debug\_06.CompareNumbers.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\06. CompareNumbers\bin\Debug\_06.CompareNumbers.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\06. CompareNumbers\obj\Debug\_06.CompareNumbers.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\06. CompareNumbers\obj\Debug\_06.CompareNumbers.pdb

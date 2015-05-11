@@ -1,0 +1,8 @@
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\09. TrapezoidArea\bin\Debug\_09.TrapezoidArea.exe.config
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\09. TrapezoidArea\bin\Debug\_09.TrapezoidArea.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\09. TrapezoidArea\bin\Debug\_09.TrapezoidArea.pdb
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\09. TrapezoidArea\obj\Debug\_09.TrapezoidArea.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\09. TrapezoidArea\obj\Debug\_09.TrapezoidArea.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\09. TrapezoidArea\bin\Debug\_09.TrapezoidArea.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\09. TrapezoidArea\obj\Debug\_09.TrapezoidArea.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\09. TrapezoidArea\obj\Debug\_09.TrapezoidArea.pdb

@@ -1,0 +1,3 @@
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\CountBeers\bin\Debug\CountBeers.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\CountBeers\obj\Debug\CountBeers.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\CountBeers\obj\Debug\CountBeers.pdb

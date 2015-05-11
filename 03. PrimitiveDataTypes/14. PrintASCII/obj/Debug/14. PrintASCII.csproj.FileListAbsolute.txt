@@ -1,0 +1,10 @@
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\14. PrintASCII\bin\Debug\_14.PrintASCII.exe.config
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\14. PrintASCII\bin\Debug\_14.PrintASCII.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\14. PrintASCII\bin\Debug\_14.PrintASCII.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\14. PrintASCII\obj\Debug\_14.PrintASCII.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\14. PrintASCII\obj\Debug\_14.PrintASCII.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\14. PrintASCII\bin\Debug\_14.PrintASCII.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\14. PrintASCII\bin\Debug\_14.PrintASCII.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\14. PrintASCII\bin\Debug\_14.PrintASCII.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\14. PrintASCII\obj\Debug\_14.PrintASCII.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\14. PrintASCII\obj\Debug\_14.PrintASCII.pdb

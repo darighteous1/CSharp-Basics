@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\16. CatchTheBits\bin\Debug\_16.CatchTheBits.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\16. CatchTheBits\bin\Debug\_16.CatchTheBits.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\16. CatchTheBits\bin\Debug\_16.CatchTheBits.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\16. CatchTheBits\obj\Debug\_16.CatchTheBits.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\16. CatchTheBits\obj\Debug\_16.CatchTheBits.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\05. Console Input-Output\16. CatchTheBits\obj\Debug\16. CatchTheBits.csprojResolveAssemblyReference.cache

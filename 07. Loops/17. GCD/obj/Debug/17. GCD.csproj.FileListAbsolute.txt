@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\17. GCD\bin\Debug\_17.GCD.exe.config
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\17. GCD\obj\Debug\17. GCD.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\17. GCD\bin\Debug\_17.GCD.exe
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\17. GCD\bin\Debug\_17.GCD.pdb
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\17. GCD\obj\Debug\_17.GCD.exe
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\17. GCD\obj\Debug\_17.GCD.pdb

@@ -1,0 +1,12 @@
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\16. HalfSum\bin\Debug\_16.HalfSum.exe.config
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\16. HalfSum\bin\Debug\_16.HalfSum.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\16. HalfSum\bin\Debug\_16.HalfSum.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\16. HalfSum\obj\Debug\_16.HalfSum.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\16. HalfSum\obj\Debug\_16.HalfSum.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\16. HalfSum\obj\Debug\16. HalfSum.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\16. HalfSum\bin\Debug\_16.HalfSum.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\16. HalfSum\bin\Debug\_16.HalfSum.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\16. HalfSum\bin\Debug\_16.HalfSum.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\16. HalfSum\obj\Debug\16. HalfSum.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\16. HalfSum\obj\Debug\_16.HalfSum.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\16. HalfSum\obj\Debug\_16.HalfSum.pdb

@@ -1,0 +1,10 @@
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\08. CopyrightTriangle\bin\Debug\_08.CopyrightTriangle.exe.config
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\08. CopyrightTriangle\bin\Debug\_08.CopyrightTriangle.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\08. CopyrightTriangle\bin\Debug\_08.CopyrightTriangle.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\08. CopyrightTriangle\obj\Debug\_08.CopyrightTriangle.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\08. CopyrightTriangle\obj\Debug\_08.CopyrightTriangle.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\08. CopyrightTriangle\bin\Debug\_08.CopyrightTriangle.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\08. CopyrightTriangle\bin\Debug\_08.CopyrightTriangle.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\08. CopyrightTriangle\bin\Debug\_08.CopyrightTriangle.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\08. CopyrightTriangle\obj\Debug\_08.CopyrightTriangle.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\08. CopyrightTriangle\obj\Debug\_08.CopyrightTriangle.pdb

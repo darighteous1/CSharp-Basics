@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

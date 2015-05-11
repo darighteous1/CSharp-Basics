@@ -1,0 +1,8 @@
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\02. GravitationOfTheMoon\bin\Debug\_02.GravitationOfTheMoon.exe.config
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\02. GravitationOfTheMoon\bin\Debug\_02.GravitationOfTheMoon.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\02. GravitationOfTheMoon\bin\Debug\_02.GravitationOfTheMoon.pdb
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\02. GravitationOfTheMoon\obj\Debug\_02.GravitationOfTheMoon.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\02. GravitationOfTheMoon\obj\Debug\_02.GravitationOfTheMoon.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\02. GravitationOfTheMoon\bin\Debug\_02.GravitationOfTheMoon.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\02. GravitationOfTheMoon\obj\Debug\_02.GravitationOfTheMoon.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\02. GravitationOfTheMoon\obj\Debug\_02.GravitationOfTheMoon.pdb

@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\07. CountLetters\bin\Debug\_07.CountLetters.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\07. CountLetters\bin\Debug\_07.CountLetters.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\07. CountLetters\bin\Debug\_07.CountLetters.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\07. CountLetters\obj\Debug\_07.CountLetters.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\07. CountLetters\obj\Debug\_07.CountLetters.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\07. CountLetters\obj\Debug\07. CountLetters.csprojResolveAssemblyReference.cache

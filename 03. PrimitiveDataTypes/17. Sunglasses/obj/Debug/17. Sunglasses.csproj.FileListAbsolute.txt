@@ -1,0 +1,12 @@
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\17. Sunglasses\bin\Debug\_17.Sunglasses.exe.config
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\17. Sunglasses\bin\Debug\_17.Sunglasses.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\17. Sunglasses\bin\Debug\_17.Sunglasses.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\17. Sunglasses\obj\Debug\_17.Sunglasses.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\17. Sunglasses\obj\Debug\_17.Sunglasses.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\17. Sunglasses\obj\Debug\17. Sunglasses.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\17. Sunglasses\bin\Debug\_17.Sunglasses.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\17. Sunglasses\bin\Debug\_17.Sunglasses.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\17. Sunglasses\bin\Debug\_17.Sunglasses.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\17. Sunglasses\obj\Debug\17. Sunglasses.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\17. Sunglasses\obj\Debug\_17.Sunglasses.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\17. Sunglasses\obj\Debug\_17.Sunglasses.pdb

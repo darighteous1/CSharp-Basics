@@ -1,0 +1,8 @@
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\04. RectangleArea\bin\Debug\_04.RectangleArea.exe.config
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\04. RectangleArea\bin\Debug\_04.RectangleArea.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\04. RectangleArea\bin\Debug\_04.RectangleArea.pdb
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\04. RectangleArea\obj\Debug\_04.RectangleArea.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\04. RectangleArea\obj\Debug\_04.RectangleArea.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\04. RectangleArea\bin\Debug\_04.RectangleArea.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\04. RectangleArea\obj\Debug\_04.RectangleArea.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\04. RectangleArea\obj\Debug\_04.RectangleArea.pdb

@@ -1,0 +1,12 @@
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\15. BitsExchange\bin\Debug\_15.BitsExchange.exe.config
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\15. BitsExchange\obj\Debug\15. BitsExchange.csprojResolveAssemblyReference.cache
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\15. BitsExchange\bin\Debug\_15.BitsExchange.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\15. BitsExchange\bin\Debug\_15.BitsExchange.pdb
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\15. BitsExchange\obj\Debug\_15.BitsExchange.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\15. BitsExchange\obj\Debug\_15.BitsExchange.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\15. BitsExchange\bin\Debug\_15.BitsExchange.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\15. BitsExchange\obj\Debug\_15.BitsExchange.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\15. BitsExchange\obj\Debug\_15.BitsExchange.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\15. BitsExchange\bin\Debug\_15.BitsExchange.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\15. BitsExchange\bin\Debug\_15.BitsExchange.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\15. BitsExchange\obj\Debug\15. BitsExchange.csprojResolveAssemblyReference.cache

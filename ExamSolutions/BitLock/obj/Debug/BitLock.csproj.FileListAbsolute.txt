@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\BitLock\bin\Debug\BitLock.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\BitLock\obj\Debug\BitLock.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\BitLock\bin\Debug\BitLock.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\BitLock\bin\Debug\BitLock.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\BitLock\obj\Debug\BitLock.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\BitLock\obj\Debug\BitLock.pdb

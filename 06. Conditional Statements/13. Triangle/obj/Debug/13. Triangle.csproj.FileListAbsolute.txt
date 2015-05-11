@@ -1,0 +1,12 @@
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\13. Triangle\bin\Debug\_13.Triangle.exe.config
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\13. Triangle\bin\Debug\_13.Triangle.exe
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\13. Triangle\bin\Debug\_13.Triangle.pdb
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\13. Triangle\obj\Debug\13. Triangle.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\13. Triangle\obj\Debug\_13.Triangle.exe
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\13. Triangle\obj\Debug\_13.Triangle.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\13. Triangle\bin\Debug\_13.Triangle.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\13. Triangle\bin\Debug\_13.Triangle.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\13. Triangle\bin\Debug\_13.Triangle.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\13. Triangle\obj\Debug\13. Triangle.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\13. Triangle\obj\Debug\_13.Triangle.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\13. Triangle\obj\Debug\_13.Triangle.pdb

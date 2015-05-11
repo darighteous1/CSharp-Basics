@@ -1,0 +1,3 @@
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\11. BeerTime\bin\Debug\_11.BeerTime.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\11. BeerTime\obj\Debug\_11.BeerTime.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\11. BeerTime\obj\Debug\_11.BeerTime.pdb

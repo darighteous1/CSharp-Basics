@@ -1,0 +1,5 @@
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\08. CurrentDateTime\bin\Debug\_08.CurrentDateTime.exe.config
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\08. CurrentDateTime\bin\Debug\_08.CurrentDateTime.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\08. CurrentDateTime\bin\Debug\_08.CurrentDateTime.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\08. CurrentDateTime\obj\Debug\_08.CurrentDateTime.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\08. CurrentDateTime\obj\Debug\_08.CurrentDateTime.pdb

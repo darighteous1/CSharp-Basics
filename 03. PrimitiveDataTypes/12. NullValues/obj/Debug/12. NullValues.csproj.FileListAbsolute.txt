@@ -1,0 +1,12 @@
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\12. NullValues\bin\Debug\_12.NullValues.exe.config
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\12. NullValues\bin\Debug\_12.NullValues.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\12. NullValues\bin\Debug\_12.NullValues.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\12. NullValues\obj\Debug\_12.NullValues.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\12. NullValues\obj\Debug\_12.NullValues.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\12. NullValues\obj\Debug\12. NullValues.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\12. NullValues\bin\Debug\_12.NullValues.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\12. NullValues\bin\Debug\_12.NullValues.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\12. NullValues\bin\Debug\_12.NullValues.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\12. NullValues\obj\Debug\12. NullValues.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\12. NullValues\obj\Debug\_12.NullValues.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\12. NullValues\obj\Debug\_12.NullValues.pdb

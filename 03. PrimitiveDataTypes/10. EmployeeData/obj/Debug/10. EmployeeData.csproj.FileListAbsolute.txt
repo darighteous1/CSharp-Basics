@@ -1,0 +1,12 @@
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\10. EmployeeData\bin\Debug\_10.EmployeeData.exe.config
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\10. EmployeeData\bin\Debug\_10.EmployeeData.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\10. EmployeeData\bin\Debug\_10.EmployeeData.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\10. EmployeeData\obj\Debug\_10.EmployeeData.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\10. EmployeeData\obj\Debug\_10.EmployeeData.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\10. EmployeeData\obj\Debug\10. EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\10. EmployeeData\bin\Debug\_10.EmployeeData.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\10. EmployeeData\bin\Debug\_10.EmployeeData.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\10. EmployeeData\bin\Debug\_10.EmployeeData.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\10. EmployeeData\obj\Debug\10. EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\10. EmployeeData\obj\Debug\_10.EmployeeData.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\03. PrimitiveDataTypes\10. EmployeeData\obj\Debug\_10.EmployeeData.pdb

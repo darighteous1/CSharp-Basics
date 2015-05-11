@@ -1,0 +1,5 @@
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\10. OddEvenProduct\bin\Debug\_10.OddEvenProduct.exe.config
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\10. OddEvenProduct\bin\Debug\_10.OddEvenProduct.exe
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\10. OddEvenProduct\bin\Debug\_10.OddEvenProduct.pdb
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\10. OddEvenProduct\obj\Debug\_10.OddEvenProduct.exe
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\10. OddEvenProduct\obj\Debug\_10.OddEvenProduct.pdb

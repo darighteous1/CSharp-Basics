@@ -1,0 +1,15 @@
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\10. LongestWord\bin\Debug\_10.LongestWord.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\10. LongestWord\bin\Debug\_10.LongestWord.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\10. LongestWord\bin\Debug\_10.LongestWord.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\10. LongestWord\obj\Debug\10. LongestWord.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\10. LongestWord\obj\Debug\_10.LongestWord.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\10. LongestWord\obj\Debug\_10.LongestWord.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\08. AdvancedTopicsPart1\10. LongestWord\bin\Debug\_10.LongestWord.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\08. AdvancedTopicsPart1\10. LongestWord\obj\Debug\_10.LongestWord.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\08. AdvancedTopicsPart1\10. LongestWord\obj\Debug\_10.LongestWord.pdb
+C:\Users\darighteous1\Desktop\Programming\SoftUni\0. Programming Basics\!Homeworks\08. AdvancedTopicsPart1\10. LongestWord\bin\Debug\_10.LongestWord.exe.config
+C:\Users\darighteous1\Desktop\Programming\SoftUni\0. Programming Basics\!Homeworks\08. AdvancedTopicsPart1\10. LongestWord\bin\Debug\_10.LongestWord.exe
+C:\Users\darighteous1\Desktop\Programming\SoftUni\0. Programming Basics\!Homeworks\08. AdvancedTopicsPart1\10. LongestWord\bin\Debug\_10.LongestWord.pdb
+C:\Users\darighteous1\Desktop\Programming\SoftUni\0. Programming Basics\!Homeworks\08. AdvancedTopicsPart1\10. LongestWord\obj\Debug\10. LongestWord.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\Programming\SoftUni\0. Programming Basics\!Homeworks\08. AdvancedTopicsPart1\10. LongestWord\obj\Debug\_10.LongestWord.exe
+C:\Users\darighteous1\Desktop\Programming\SoftUni\0. Programming Basics\!Homeworks\08. AdvancedTopicsPart1\10. LongestWord\obj\Debug\_10.LongestWord.pdb

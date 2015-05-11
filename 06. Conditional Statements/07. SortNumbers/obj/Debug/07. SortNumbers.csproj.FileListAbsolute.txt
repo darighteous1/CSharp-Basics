@@ -1,0 +1,10 @@
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\07. SortNumbers\bin\Debug\_07.SortNumbers.exe.config
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\07. SortNumbers\bin\Debug\_07.SortNumbers.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\07. SortNumbers\bin\Debug\_07.SortNumbers.pdb
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\07. SortNumbers\obj\Debug\_07.SortNumbers.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\07. SortNumbers\obj\Debug\_07.SortNumbers.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\07. SortNumbers\bin\Debug\_07.SortNumbers.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\07. SortNumbers\bin\Debug\_07.SortNumbers.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\07. SortNumbers\bin\Debug\_07.SortNumbers.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\07. SortNumbers\obj\Debug\_07.SortNumbers.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\06. Conditional Statements\07. SortNumbers\obj\Debug\_07.SortNumbers.pdb

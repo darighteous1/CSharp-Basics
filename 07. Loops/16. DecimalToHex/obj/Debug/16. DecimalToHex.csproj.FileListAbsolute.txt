@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\16. DecimalToHex\bin\Debug\_16.DecimalToHex.exe.config
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\16. DecimalToHex\bin\Debug\_16.DecimalToHex.exe
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\16. DecimalToHex\bin\Debug\_16.DecimalToHex.pdb
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\16. DecimalToHex\obj\Debug\16. DecimalToHex.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\16. DecimalToHex\obj\Debug\_16.DecimalToHex.exe
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\07. Loops\16. DecimalToHex\obj\Debug\_16.DecimalToHex.pdb

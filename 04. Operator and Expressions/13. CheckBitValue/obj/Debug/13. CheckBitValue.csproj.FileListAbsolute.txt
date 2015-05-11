@@ -1,0 +1,11 @@
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\13. CheckBitValue\bin\Debug\_13.CheckBitValue.exe.config
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\13. CheckBitValue\bin\Debug\_13.CheckBitValue.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\13. CheckBitValue\bin\Debug\_13.CheckBitValue.pdb
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\13. CheckBitValue\obj\Debug\_13.CheckBitValue.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution1\13. CheckBitValue\obj\Debug\_13.CheckBitValue.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\13. CheckBitValue\bin\Debug\_13.CheckBitValue.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\13. CheckBitValue\obj\Debug\_13.CheckBitValue.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\13. CheckBitValue\obj\Debug\_13.CheckBitValue.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\13. CheckBitValue\bin\Debug\_13.CheckBitValue.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\13. CheckBitValue\bin\Debug\_13.CheckBitValue.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\13. CheckBitValue\obj\Debug\13. CheckBitValue.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\08. SortNumbers\bin\Debug\_08.SortNumbers.exe.config
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\08. SortNumbers\bin\Debug\_08.SortNumbers.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\08. SortNumbers\bin\Debug\_08.SortNumbers.pdb
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\08. SortNumbers\obj\Debug\_08.SortNumbers.exe
+c:\users\darighteous1\documents\visual studio 2013\Projects\Solution2\08. SortNumbers\obj\Debug\_08.SortNumbers.pdb
+C:\Users\darighteous1\Documents\Visual Studio 2013\Projects\Solution2\08. SortNumbers\obj\Debug\08. SortNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.exe.config
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.exe
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.pdb
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.exe
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.pdb
+C:\Users\darighteous1\documents\visual studio 2013\Projects\05. Console Input-Output\05. FormattingNumbers\obj\Debug\05. FormattingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\05. Console Input-Output\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.pdb

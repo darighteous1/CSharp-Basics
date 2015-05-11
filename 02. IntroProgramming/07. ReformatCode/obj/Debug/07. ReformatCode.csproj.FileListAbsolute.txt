@@ -1,0 +1,6 @@
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\07. ReformatCode\bin\Debug\_07.ReformatCode.exe.config
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\07. ReformatCode\bin\Debug\_07.ReformatCode.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\07. ReformatCode\bin\Debug\_07.ReformatCode.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\07. ReformatCode\obj\Debug\_07.ReformatCode.exe
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\07. ReformatCode\obj\Debug\_07.ReformatCode.pdb
+C:\Users\tonislav\Desktop\C#\0. C# Basics\!Homeworks\02. IntroProgramming\07. ReformatCode\obj\Debug\07. ReformatCode.csprojResolveAssemblyReference.cache

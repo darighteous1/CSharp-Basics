@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\09. AverageLoadTime\bin\Debug\_09.AverageLoadTime.exe.config
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\09. AverageLoadTime\bin\Debug\_09.AverageLoadTime.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\09. AverageLoadTime\bin\Debug\_09.AverageLoadTime.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\09. AverageLoadTime\obj\Debug\_09.AverageLoadTime.exe
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\09. AverageLoadTime\obj\Debug\_09.AverageLoadTime.pdb
+C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\08. AdvancedTopicsPart1\09. AverageLoadTime\obj\Debug\09. AverageLoadTime.csprojResolveAssemblyReference.cache

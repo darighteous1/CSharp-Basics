@@ -1,0 +1,6 @@
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\17. Volleyball\bin\Debug\_17.Volleyball.exe.config
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\17. Volleyball\bin\Debug\_17.Volleyball.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\17. Volleyball\bin\Debug\_17.Volleyball.pdb
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\17. Volleyball\obj\Debug\17. Volleyball.csprojResolveAssemblyReference.cache
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\17. Volleyball\obj\Debug\_17.Volleyball.exe
+C:\Users\darighteous1\Desktop\C#\0. C# Basics\!Homeworks\04. Operator and Expressions\17. Volleyball\obj\Debug\_17.Volleyball.pdb
