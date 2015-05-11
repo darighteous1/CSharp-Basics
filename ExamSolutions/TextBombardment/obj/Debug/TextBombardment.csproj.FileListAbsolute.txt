@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\TextBombardment\bin\Debug\TextBombardment.exe.config
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\TextBombardment\obj\Debug\TextBombardment.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\TextBombardment\bin\Debug\TextBombardment.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\TextBombardment\bin\Debug\TextBombardment.pdb
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\TextBombardment\obj\Debug\TextBombardment.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\TextBombardment\obj\Debug\TextBombardment.pdb

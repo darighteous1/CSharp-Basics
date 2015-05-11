@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\Boat\bin\Debug\Boat.exe.config
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\Boat\obj\Debug\Boat.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\Boat\bin\Debug\Boat.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\Boat\bin\Debug\Boat.pdb
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\Boat\obj\Debug\Boat.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\Boat\obj\Debug\Boat.pdb

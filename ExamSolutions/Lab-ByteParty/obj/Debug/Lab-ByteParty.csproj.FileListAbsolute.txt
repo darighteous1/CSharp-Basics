@@ -1,6 +1,0 @@
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\Lab-ByteParty\bin\Debug\Lab-ByteParty.exe.config
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\Lab-ByteParty\bin\Debug\Lab-ByteParty.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\Lab-ByteParty\bin\Debug\Lab-ByteParty.pdb
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\Lab-ByteParty\obj\Debug\Lab-ByteParty.csprojResolveAssemblyReference.cache
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\Lab-ByteParty\obj\Debug\Lab-ByteParty.exe
-C:\Users\darighteous1\Desktop\Programming\C#\0. C# Basics\!Homeworks\ExamSolutions\Lab-ByteParty\obj\Debug\Lab-ByteParty.pdb
